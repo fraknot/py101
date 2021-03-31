@@ -1,6 +1,6 @@
 [![imagenes](imagenes/pythonista.png)](https://pythonista.mx)
 
-# py101 Introducción a Python 3.
+# py101 Introducción a Python.
 
 ## Temario:
 
